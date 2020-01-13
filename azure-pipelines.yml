@@ -13,4 +13,4 @@ steps:
 - task: BatchScript@1
   inputs:
     filename: 'calc.bat'
-    arguments: '36 9'
+    arguments: '9 36'
